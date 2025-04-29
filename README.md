@@ -1,6 +1,8 @@
 # 🌲 New York Tree Species Dashboard 🌲
 
-A Power BI dashboard featuring a nationwide map of all U.S. tornado paths, with additional insights on damage costs and frequency by rating. 
+This project is an interactive dashboard that visualizes the distribution of tree species across New York State.
+Using data from the USDA Forest Service's Forest Inventory and Analysis (FIA) program, the dashboard allows users to explore species diversity, abundance, and forest composition.
+Built to make large-scale ecological data accessible and insightful for researchers, conservationists, and the public.
 
 # 📸 Screenshots
 
